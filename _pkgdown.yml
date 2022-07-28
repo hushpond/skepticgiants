@@ -1,0 +1,36 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: lux
+  bslib:
+    primary: "#306cc9"
+    pkgdown-nav-height: 100px
+news:
+- one_page: false
+navbar:
+  title:
+  type: inverse
+  left:
+    - text: "Zarathu?"
+      menu:
+        - text: "Zarathu!"
+          href: zarathu.com
+    - text: "Reference"
+      href: google.com
+    - text: "Features"
+      menu:
+        - text: "Zarathu1"
+          href: zarathu.com
+        - text: "Zarathu"
+          href: zarathu.com
+    - text: "Kind Examples"
+      menu:
+        - text: "Zarathu1"
+          href: zarathu.com
+        - text: "Zarathu"
+          href: zarathu.com
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/hushpond/skepticgiants
+reference:
+
