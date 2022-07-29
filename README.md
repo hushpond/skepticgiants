@@ -11,8 +11,12 @@ The protest comes just three days after the Giants on Sunday suffered the single
 --------------------
 
 # skepticgiants
-For pkgdown test
 
+Make pkgdown Great Again (?)
+
+```
+pkgdown::build_site()
+```
 --------------------
 
 ## codeblock 사용법
